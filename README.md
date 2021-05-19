@@ -1,5 +1,4 @@
 # Note Taking App
-******
 
 > **Note taker  is a java advance based application which help  people take quick notes and get referance in future.**
 
