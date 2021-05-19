@@ -1,10 +1,13 @@
 # Note Taking App
+******
 
-Note taker  is a java advance based application which help  people take quick notes and get referance in future 
+> **Note taker  is a java advance based application which help  people take quick notes and get referance in future.**
 
 ## Features
 
 - Anyone can create ,update ,delete and view note with simple UI 
+
+---------
 
 ### Technology used in this project
 
